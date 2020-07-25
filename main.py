@@ -4,7 +4,7 @@ import sqlite3
 import random
 import datetime
 
-TOKEN = 'NzM2MzIxMDY4ODg0Njg4OTcx.XxtGbw.T1Jtljz8liMFcROQIDc7aZFtMVE'
+TOKEN = "Token"
 
 client = commands.Bot(command_prefix='.')
 client.remove_command('help')
